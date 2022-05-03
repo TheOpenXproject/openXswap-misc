@@ -1,0 +1,36 @@
+{
+	"56": [
+		{
+			"name": "PancakeSwap Dex",
+			"image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
+			"factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+			"router": "'0x10ED43C718714eb63d5aA57B78B54704E256024E",
+			"masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+			"description": "PancakeSwap Dex",
+			"token": {
+				"chainId": 56,
+				"address": " 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+				"decimals": 18,
+				"name": "PancakeSwap Token",
+				"symbol": "CAKE",
+				"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
+			}
+		},
+		{
+			"name": "ApeSwap Dex",
+			"image": "https://apeswap.finance/logo.png",
+			"factory": "0xCf083Be4164828f00cAE704EC15a36D711491284",
+			"router": "'0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607",
+			"masterchef":"0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+			"description": "ApeSwap Dex",
+			"token": {
+				"chainId": 56,
+				"address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+				"decimals": 18,
+				"name": "ApeSwap Banana Token",
+				"symbol": "BANANA",
+				"logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
+			}
+		}
+	]
+}

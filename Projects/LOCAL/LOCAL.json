@@ -1,0 +1,52 @@
+{
+	"1337": [
+		{
+			"name": "OpenSwap Dex",
+			"image": "https://openfi.dev/tokens/default/oSWAP.png",
+			"factory": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+			"router": "'0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+			"masterchef": "0x4ed7c70F96B99c776995fB64377f0d4aB3B0e1C1",
+			"description": "OpenSwap Dex",
+			"token": {
+				"chainId": 1337,
+				"address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed",
+				"decimals": 18,
+				"name": "OpenSwap Token",
+				"symbol": "OpenX",
+				"logoURI": "https://openfi.dev/tokens/default/oSWAP.png"
+			}
+		},
+		{
+			"name": "DFK Dex",
+			"image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png",
+			"factory": "0x851356ae760d987E095750cCeb3bC6014560891C",
+			"router": "'0xf5059a5D33d5853360D16C683c16e67980206f36",
+			"masterchef": "0x0E801D84Fa97b50751Dbf25036d067dCf18858bF",
+			"description": "Defi Kingdoms Dex",
+			"token": {
+				"chainId": 1337,
+				"address": "0x998abeb3E57409262aE5b751f60747921B33613E",
+				"decimals": 18,
+				"name": "Defikingdom Token",
+				"symbol": "Jewel",
+				"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png"
+			}
+		},
+		{
+			"name": "Viper Dex",
+			"image": "https://assets.coingecko.com/coins/images/15305/large/0c4b902b40f14db918f4500956386414ab7ebcfe.jpeg?1620371961",
+			"factory": "0x7969c5eD335650692Bc04293B07F5BF2e7A673C0",
+			"router": "'0x7bc06c482DEAd17c0e297aFbC32f6e63d3846650",
+			"masterchef": "0x162A433068F51e18b7d13932F27e66a3f99E6890",
+			"description": "ViperSwap Dex",
+			"token": {
+				"chainId": 1337,
+				"address": "0xFD471836031dc5108809D173A067e8486B9047A3",
+				"decimals": 18,
+				"name": "ViperSwap Token",
+				"symbol": "Viper",
+				"logoURI": "https://assets.coingecko.com/coins/images/15305/large/0c4b902b40f14db918f4500956386414ab7ebcfe.jpeg?1620371961"
+			}
+		}
+	]
+}
