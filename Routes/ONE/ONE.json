@@ -1,0 +1,52 @@
+{
+	"1666600000": [
+		{
+			"chainId": 1666600000,
+			"address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+			"symbol": "BUSD",
+			"name": "Binance USD",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+		},
+		{
+			"chainId": 1666600000,
+			"address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
+			"decimals": 18,
+			"name": "BUSD",
+			"symbol": "bscBUSD",
+			"logoURI": "https://openfi.dev/tokens/default/BUSD.png"
+		},
+		{
+			"chainId": 1666600000,
+			"address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+			"decimals": 6,
+			"name": "USDC",
+			"symbol": "1USDC",
+			"logoURI": "https://openfi.dev/tokens/default/USDC.png"
+		},
+		{
+			"chainId": 1666600000	,
+			"address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+			"decimals": 18,
+			"name": "Ether",
+			"symbol": "1ETH",
+			"logoURI": "https://openfi.dev/tokens/default/ETH.png"
+		},
+		{
+			"chainId": 1666600000,
+			"address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+			"symbol": "1DAI",
+			"name": "Dai Stablecoin",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+		},
+		{
+			"chainId": 1666600000,
+			"address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
+			"symbol": "1WBTC",
+			"name": "Wrapped BTC",
+			"decimals": 8,
+			"logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+		}
+	]
+}

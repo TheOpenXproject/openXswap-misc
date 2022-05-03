@@ -1,0 +1,36 @@
+{
+	"56": [
+		{
+			"name": "Binance Pegged BUSD",
+			"symbol": "BUSD",
+			"address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+			"chainId": 56,
+			"decimals": 18,
+			"logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+		},
+		{
+			"name": "Binance Pegged USD Coin",
+			"symbol": "USDC",
+			"address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+			"chainId": 56,
+			"decimals": 18,
+			"logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+		},
+		{
+			"name": "UST Token",
+			"symbol": "UST",
+			"address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+			"chainId": 56,
+			"decimals": 18,
+			"logoURI": "https://tokens.pancakeswap.finance/images/0x23396cF899Ca06c4472205fC903bDB4de249D6fC.png"
+		},
+		{
+			"name": "Binance Pegged ETH",
+			"symbol": "ETH",
+			"address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+			"chainId": 56,
+			"decimals": 18,
+			"logoURI": "https://tokens.pancakeswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+		}
+	]
+}

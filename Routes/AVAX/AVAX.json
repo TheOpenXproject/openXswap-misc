@@ -1,0 +1,44 @@
+{
+	"43114": [
+		{
+			"address":"0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+			"chainId":43114,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+			"name":"Frax",
+			"symbol":"FRAX"
+		},
+		{
+			"chainId": 43114,
+			"address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+			"decimals": 18,
+			"name": "Binance",
+			"symbol": "BNB",
+			"logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
+		},
+		{
+			"address":"0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+			"chainId":43114,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.jpg",
+			"name":"Wrapped Ether",
+			"symbol":"WETH"
+		},
+		{
+			"address":"0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+			"chainId":43114,
+			"decimals":6,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+			"name":"USD Coin",
+			"symbol":"USDC"
+		},
+		{
+			"chainId": 43114,
+			"address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+			"decimals": 6,
+			"name": "TetherToken",
+			"symbol": "USDt",
+			"logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+		}
+	]
+}

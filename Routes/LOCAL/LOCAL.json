@@ -1,0 +1,28 @@
+{
+	"1337": [
+		{
+			"chainId": 1337,
+			"address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+			"decimals": 18,
+			"name": "BUSD",
+			"symbol": "BUSD",
+			"logoURI": "https://openfi.dev/tokens/default/BUSD.png"
+		},
+		{
+			"chainId": 1337,
+			"address": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+			"decimals": 18,
+			"name": "BNB",
+			"symbol": "BNB",
+			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1839.png"
+		},
+		{
+			"chainId": 1337	,
+			"address": "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0",
+			"decimals": 8,
+			"name": "Bitcoin",
+			"symbol": "BTC",
+			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+		}
+	]
+}

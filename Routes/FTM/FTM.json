@@ -1,0 +1,36 @@
+{
+	"250": [
+		{
+			"address":"0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+			"chainId":250,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+			"name":"Dai Stablecoin",
+			"symbol":"DAI"
+		},
+		{
+			"address":"0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
+			"chainId":250,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+			"name":"Frax",
+			"symbol":"FRAX"
+		},
+		{
+			"address":"0x321162Cd933E2Be498Cd2267a90534A804051b11",
+			"chainId":250,
+			"decimals":8,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/wbtc.jpg",
+			"name":"Wrapped Bitcoin",
+			"symbol":"WBTC"
+		},
+		{
+			"address":"0x74b23882a30290451A17c44f4F05243b6b58C76d",
+			"chainId":250,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+			"name":"Wrapped Ether",
+			"symbol":"WETH"
+		}
+	]
+}
