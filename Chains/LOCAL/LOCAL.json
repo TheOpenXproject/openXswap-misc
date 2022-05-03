@@ -1,0 +1,22 @@
+{
+	"1337": {
+		"name": "localnet",
+		"symbol": "ETH",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_ethereum.jpg&w=32&q=75",
+		"rpc_url": "http://127.0.0.1:8545",
+		"token": {
+			"chainId": 1337,
+			"address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+			"decimals": 18,
+			"name": "One",
+			"symbol": "ONE",
+			"logoURI": "https://openfi.dev/tokens/default/ONE.png"
+		},
+		"chainId": 1337,
+		"description": "localnet Chain",
+		"website": "http://localhost/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	}
+}

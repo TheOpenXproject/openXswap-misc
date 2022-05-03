@@ -1,0 +1,22 @@
+{
+	"250": {
+		"name": "Fantom",
+		"symbol": "FTM",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_fantom.jpg&w=32&q=75",
+		"rpc_url": "https://rpc.fantom.network",
+		"token": {
+			"address":"0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+			"chainId":250,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg",
+			"name":"Fantom",
+			"symbol":"FTM"
+		},
+		"chainId": 250,
+		"description": "Fantom Chain",
+		"website": "https://fantom.foundation/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	}
+}

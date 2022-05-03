@@ -1,0 +1,22 @@
+{
+	"56": {
+		"name": "Binance Smart Chain",
+		"symbol": "BNB",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_binance.jpg&w=32&q=75",
+		"rpc_url": "https://bsc-dataseed.binance.org/",
+		"token": {
+			"name": "BNB Token",
+			"symbol": "BNB",
+			"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+			"chainId": 56,
+			"decimals": 18,
+			"logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+		},
+		"chainId": 56,
+		"description": "Binance Smart Chain",
+		"website": "https://binance.com",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	}
+}
