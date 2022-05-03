@@ -1,0 +1,138 @@
+{
+	"1": {
+		"name": "Ethereum",
+		"symbol": "ETH",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_ethereum.jpg&w=32&q=75",
+		"rpc_url": "https://eth-rpc.gateway.pokt.network",
+		"token": {
+			"address":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"chainId":1,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+			"name":"Ether",
+			"symbol":"ETH"
+		},
+		"chainId": 1,
+		"description": "Ethereum Chain",
+		"website": "https://ethereum.org",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	},
+	"56": {
+		"name": "Binance Smart Chain",
+		"symbol": "BNB",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_binance.jpg&w=32&q=75",
+		"rpc_url": "https://bsc-dataseed.binance.org/",
+		"token": {
+			"name": "BNB Token",
+			"symbol": "BNB",
+			"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+			"chainId": 56,
+			"decimals": 18,
+			"logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+		},
+		"chainId": 56,
+		"description": "Binance Smart Chain",
+		"website": "https://binance.com",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	},
+	"43114": {
+		"name": "Avalanche Mainnet C-Chain",
+		"symbol": "AVAX",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_avalanche.jpg&w=32&q=75",
+		"rpc_url": "https://api.avax.network/ext/bc/C/rpc",
+		"token": {
+			"address":"0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+			"chainId":43114,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg",
+			"name":"AVAX",
+			"symbol":"AVAX"
+		},		"chainId": 43114,
+		"description": "Avalanche Mainnet C-Chain",
+		"website": "https://www.avax.network/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	},
+	"250": {
+		"name": "Fantom",
+		"symbol": "FTM",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_fantom.jpg&w=32&q=75",
+		"rpc_url": "https://rpc.fantom.network",
+		"token": {
+			"address":"0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+			"chainId":250,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg",
+			"name":"Fantom",
+			"symbol":"FTM"
+		},
+		"chainId": 250,
+		"description": "Fantom Chain",
+		"website": "https://fantom.foundation/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	},
+	"1666600000": {
+		"name": "Harmony Mainnet Shard 0",
+		"symbol": "ONE",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_harmony.jpg&w=32&q=75",
+		"rpc_url": "https://api.s0.t.hmny.io/",
+		"token": {
+			"chainId": 1666600000,
+			"address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+			"symbol": "ONE",
+			"name": "ONE",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+		},
+		"chainId": 1666600000,
+		"description": "Harmony Mainnet Shard 0",
+		"website": "https://harmony.one"
+	},
+	"137":{
+		"name": "Polygon",
+		"symbol": "MATIC",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_polygon.jpg&w=32&q=75",
+		"rpc_url": "https://rpc-mainnet.matic.network/",
+		"token": {
+			"name": "Wrapped Matic",
+			"address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+			"symbol": "WMATIC",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+		},
+		"chainId": 137,
+		"description": "Polygon Chain",
+		"website": "https://polygon.technology/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	},
+	"1337": {
+		"name": "localnet",
+		"symbol": "ETH",
+		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_ethereum.jpg&w=32&q=75",
+		"rpc_url": "http://127.0.0.1:8545",
+		"token": {
+			"chainId": 1337,
+			"address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+			"decimals": 18,
+			"name": "One",
+			"symbol": "ONE",
+			"logoURI": "https://openfi.dev/tokens/default/ONE.png"
+		},
+		"chainId": 1337,
+		"description": "localnet Chain",
+		"website": "http://localhost/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
+	}
+}
