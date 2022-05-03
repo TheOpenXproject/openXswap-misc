@@ -1,0 +1,8 @@
+{
+	"1": [
+		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Ethereum/openXswap.json",
+		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Ethereum/Uniswap.json",
+		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Ethereum/SushiSwap.json",
+		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Ethereum/Aave.json"
+	]
+}
