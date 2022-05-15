@@ -9,14 +9,6 @@
 			"symbol":"FRAX"
 		},
 		{
-			"chainId": 43114,
-			"address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
-			"decimals": 18,
-			"name": "Binance",
-			"symbol": "BNB",
-			"logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png"
-		},
-		{
 			"address":"0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
 			"chainId":43114,
 			"decimals":18,
