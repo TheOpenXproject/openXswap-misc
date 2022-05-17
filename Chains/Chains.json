@@ -4,6 +4,7 @@
 		"symbol": "ETH",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_ethereum.jpg&w=32&q=75",
 		"rpc_url": "https://eth-rpc.gateway.pokt.network",
+		"explorer_url":"https://etherscan.io/",
 		"token": {
 			"address":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
 			"chainId":1,
@@ -24,6 +25,7 @@
 		"symbol": "BNB",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_binance.jpg&w=32&q=75",
 		"rpc_url": "https://bsc-dataseed.binance.org/",
+		"explorer_url":"https://bscscan.com/",
 		"token": {
 			"name": "BNB Token",
 			"symbol": "BNB",
@@ -44,6 +46,7 @@
 		"symbol": "AVAX",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_avalanche.jpg&w=32&q=75",
 		"rpc_url": "https://api.avax.network/ext/bc/C/rpc",
+		"explorer_url":"https://explorer.avax.network/",
 		"token": {
 			"address":"0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
 			"chainId":43114,
@@ -64,6 +67,7 @@
 		"symbol": "FTM",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_fantom.jpg&w=32&q=75",
 		"rpc_url": "https://rpc.fantom.network",
+		"explorer_url":"https://ftmscan.com/",
 		"token": {
 			"address":"0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
 			"chainId":250,
@@ -84,6 +88,7 @@
 		"symbol": "ONE",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_harmony.jpg&w=32&q=75",
 		"rpc_url": "https://api.s0.t.hmny.io/",
+		"explorer_url":"https://explorer.harmony.one/",
 		"token": {
 			"chainId": 1666600000,
 			"address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
@@ -100,7 +105,8 @@
 		"name": "Polygon",
 		"symbol": "MATIC",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_polygon.jpg&w=32&q=75",
-		"rpc_url": "https://rpc-mainnet.matic.network/",
+		"rpc_url": "https://polygon-rpc.com/",
+		"explorer_url":"https://polygonscan.com/",
 		"token": {
 			"name": "Wrapped Matic",
 			"address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -121,6 +127,7 @@
 		"symbol": "ETH",
 		"img": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_ethereum.jpg&w=32&q=75",
 		"rpc_url": "http://127.0.0.1:8545",
+		"explorer_url":"",
 		"token": {
 			"chainId": 1337,
 			"address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
