@@ -1,18 +1,7 @@
 {
 	"137": [
 		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Polygon/openXswap.json",
-		"https://unpkg.com/quickswap-default-token-list@1.2.34/build/quickswap-default.tokenlist.json",
-		"https://token-list.sushi.com/chainlink"
-		"https://www.gemini.com/uniswap/manifest.json"
-		"https://token-list.sushi.com"
-		"wrapped.tokensoft.eth"
-		"tokenlist.aave.eth"
-		"https://tokens.coingecko.com/uniswap/all.json"
-		"https://api.coinmarketcap.com/data-api/v3/uniswap/all.json"
-		"https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json"
-		"https://list.dhedge.eth.link"
-		"t2crtokens.eth"
-		"https://nftx.ethereumdb.com/v2/tokenlist/"
-		"synths.snx.eth"
+		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Polygon/Polygon-Default.json",
+		"https://raw.githubusercontent.com/openXswap/openXswap-tokenlists/master/Polygon/Uniswap.json"
 	]
 }
