@@ -78,6 +78,22 @@
 				"symbol": "TRANQ",
 				"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14653.png"
 			}
+		},
+		{
+			"name": "SonicSwap Dex",
+			"image": "https://s2.coinmarketcap.com/static/img/coins/64x64/13120.png",
+			"factory": "0x653FB617210ca72DC938f8f4C75738F2B4b88d7B",
+			"masterchef": "0x65bFeeC6E0679EB5913b25063Aab228ccab43161",
+			"router": "0xcEEB22Faf32FF4EAd24565225503807e41E5FE87",
+			"description": "SonicSwap Dex",
+			"token": {
+				"chainId": 1666600000,
+				"address": "0x1e05c8b69e4128949fcef16811a819ef2f55d33e",
+				"decimals": 18,
+				"name": "SonicSwap Token",
+				"symbol": "SONIC",
+				"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13120.png"
+			}
 		}
 	]
 }

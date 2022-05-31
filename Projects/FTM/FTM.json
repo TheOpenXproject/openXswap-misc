@@ -31,21 +31,6 @@
 				"symbol": "SUSHI",
 				"logoURI": "https://dexscreener.com/builds/1651128859/img/dexes/sushiswap.png"
 			}
-		},
-		{
-			"name": "Solidly Dex",
-			"image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18399.png",
-			"factory": "0x3fAaB499b519fdC5819e3D7ed0C26111904cbc28",
-			"router": "0xa38cd27185a464914D3046f0AB9d43356B34829D",
-			"description": "Solidly Dex",
-			"token": {
-				"chainId": 250,
-				"address": "0x888EF71766ca594DED1F0FA3AE64eD2941740A20",
-				"decimals": 18,
-				"name": "Solidly Token",
-				"symbol": "SOLID",
-				"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18399.png"
-			}
 		}
 	]
 }
