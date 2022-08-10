@@ -1,0 +1,52 @@
+{
+	"10": [
+		{
+			"name": "OpenxSwap Dex",
+			"image": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+			"factory": "",
+			"router": "",
+			"masterchef": "",
+			"description": "OpenxSwap Dex",
+			"token": {
+				"chainId": 10,
+				"address": "",
+				"decimals": 18,
+				"name": "OpenSwap Token",
+				"symbol": "OpenX",
+				"logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+			}
+		},
+		{
+			"name": "Velodrome Dex",
+			"image": "https://docs.velodrome.finance/velodrome.svg",
+			"factory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746",
+			"router": "0xa132DAB612dB5cB9fC9Ac426A0Cc215A3423F9c9",
+			"masterchef": "0x3460Dc71A8863710D1C907B8d9D5DBC053a4102d",
+			"description": "Velodrome Finance",
+			"token": {
+				"chainId": 10,
+				"address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+				"decimals": 18,
+				"name": "Velodrome",
+				"symbol": "VELO",
+				"logoURI": "https://docs.velodrome.finance/velodrome.svg"
+			}
+		},
+        {
+			"name": "Zipswap",
+			"image": "https://gist.githubusercontent.com/NoNameFits/a53cb0c7b328440886cc89088bfb547a/raw/6edd2abb129fb5169c042d27f968c24470827275/favicon.png",
+			"factory": "0x8BCeDD62DD46F1A76F8A1633d4f5B76e0CDa521E",
+			"router": "0xE6Df0BB08e5A97b40B21950a0A51b94c4DbA0Ff6",
+			"masterchef": "",
+			"description": "Zipswap",
+			"token": {
+				"chainId": 10,
+				"address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
+				"decimals": 18,
+				"name": "Zip Token",
+				"symbol": "ZIP",
+				"logoURI": "https://gist.githubusercontent.com/NoNameFits/a53cb0c7b328440886cc89088bfb547a/raw/6edd2abb129fb5169c042d27f968c24470827275/favicon.png"
+			}
+		}
+	]
+}

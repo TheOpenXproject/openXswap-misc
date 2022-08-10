@@ -1,0 +1,28 @@
+{
+	"1666600000": [
+		{
+			"chainId": 10,
+			"address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+			"decimals": 6,
+			"name": "USD Coin",
+			"symbol": "USD",
+			"logoURI": "https://openfi.dev/tokens/default/USDC.png"
+		},
+		{
+			"chainId": 10,
+			"address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+			"decimals": 18,
+			"name": "DAI",
+			"symbol": "Dai Stablecoin",
+			"logoURI": "https://openfi.dev/tokens/default/DAI.png"
+		},
+		{
+			"chainId": 10,
+			"address": "0x4200000000000000000000000000000000000042",
+			"decimals": 18,
+			"name": "Optimism",
+			"symbol": "OP",
+			"logoURI": "https://github.com/ethereum-optimism/brand-kit/blob/main/assets/images/Profile-Logo.png?raw=true"
+		}
+	]
+}
