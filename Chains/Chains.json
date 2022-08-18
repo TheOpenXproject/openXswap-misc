@@ -142,5 +142,26 @@
 		"tags": {
 			"hexColor": "ffffff"
 		}
+	},
+	"10":{
+		"name": "Optimism",
+		"symbol": "OP",
+		"img": "https://github.com/ethereum-optimism/brand-kit/blob/main/assets/images/Profile-Logo.png?raw=true",
+		"rpc_url": "https://mainnet.optimism.io/",
+		"explorer_url":"https://optimistic.etherscan.io/",
+		"token": {
+			"name": "Optimism",
+			"address": "0x4200000000000000000000000000000000000042",
+			"symbol": "OP",
+			"decimals": 18,
+			"chainId": 10,
+			"logoURI": "https://github.com/ethereum-optimism/brand-kit/blob/main/assets/images/Profile-Logo.png?raw=true"
+		},
+		"chainId": 137,
+		"description": "Optimism Chain",
+		"website": "https://www.optimism.io/",
+		"tags": {
+			"hexColor": "ffffff"
+		}
 	}
 }
